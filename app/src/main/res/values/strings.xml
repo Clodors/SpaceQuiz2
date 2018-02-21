@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rugby League</string>
+    <string name="Player_Team_A">Team blue</string>
+    <string name="Score_blue">0</string>
+    <string name="try_blue">try</string>
+    <string name="penalty_goal_blue">Penalty Goal</string>
+    <string name="increase_blue">increase</string>
+    <string name="drop_kick_blue">drop kick</string>
+    <string name="penalty_kick_blue">Penalty kick</string>
+    <string name="team_player_red">Team red</string>
+    <string name="score_red">0</string>
+    <string name="try_red">try</string>
+    <string name="penalty_goal_red">Penalty Goal</string>
+    <string name="increase_red">increase</string>
+    <string name="drop_kick_red">drop kick</string>
+    <string name="penalty_kick_red">Penalty kick</string>
+    <string name="reset_score">Reset</string>
+</resources>
